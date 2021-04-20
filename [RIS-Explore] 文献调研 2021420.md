@@ -1,17 +1,17 @@
 ---
 title: [RIS-explore] 2021/4/20 文献调研
-date: 2021-04-18 23:05:43
+date: 2021-04-20 20:05:43
 tags: [latex, paper, IEEE]
 categories:
     - paper
     - RIS
 	- Explore
-index_img: https://cdn.jsdelivr.net/gh/brook1711/fig_for_blog@master/img/20201224203815.png
+index_img: https://cdn.jsdelivr.net/gh/Brook1711/fig_for_blog/img/41118275.jpg
 banner_img: https://cdn.jsdelivr.net/gh/brook1711/fig_for_blog@master/img/20201224203849.png
 comment: true
 ---
 
-![I don't Fucking care! - spongebob rainbow | Meme Generator](https://cdn.jsdelivr.net/gh/Brook1711/fig_for_blog/img/41118275.jpg)
+# 1、比较熟悉
 
 目前在寻找和智能反射表面（Reconfigurable Intelligent Surface）有关的学术方向来~~水论文~~进行研究。之前进行过一篇RIS和UAV（Unmanned Arial Vehicle）结合的安全通信相关的文章，标题为：
 
