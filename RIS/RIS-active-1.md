@@ -1,6 +1,6 @@
 ---
 title: active RIS  文献调研 1
-date: 2021-05-10 10:05:43
+date: 2021-05-10 0:05:43
 tags: [latex, paper, IEEE]
 categories:
     - paper
@@ -14,7 +14,9 @@ comment: true
 # Active RIS vs. Passive RIS: Which Will Prevail in 6G?
 
 https://arxiv.org/pdf/2103.15154.pdf
-<br/>阅读目的：其中提到了反射元对幅度的增幅模型，即，（activate RIS）
+阅读目的：其中提到了反射元对幅度的增幅模型，即，（activate RIS）
+
+
 
 ## abstract
 
